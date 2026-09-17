@@ -32,8 +32,8 @@ You will reuse this in later weeks. So do it properly once.
 **Hint:** What do you believe about career, money, learning, discipline, relationships, health, success, life, tech industry, etc. that most people don't agree with?
 
 ## Answer
+I believe that **being consistent is more important than being talented**. Many people think that success depends mainly on having special skills or intelligence. I believe that a person who keeps learning, practicing, and improving every day can achieve more than someone who is naturally talented but does not put in consistent effort. Small progress every day can create big results over time.
 
-Add your answer here...
 
 ---
 
