@@ -315,9 +315,10 @@ Examples:
 
 **Yes / No**
 
-Answer:
+Yes
 
-Add your answer here...
+Answer:
+I wrote down my tasks, goals, responsibilities, ideas, and things that were on my mind. It helped me organize my thoughts and understand what I need to focus on.
 
 ---
 
@@ -335,7 +336,12 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+My Weekly Routine
+Monday–Friday: 1 hour of focused study and skill development
+Saturday: 2 hours of DMI/DevOps practical work
+Sunday: Weekly review and planning
+Daily: Practice coding and learn new technical concepts
+Every week: Complete and document at least one task or learning activity
 
 ---
 
@@ -343,11 +349,12 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Monday to Friday: 7:00 PM – 8:00 PM
+Saturday: 10:00 AM – 12:00 PM
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+1 session per week
 
 ---
 
@@ -361,7 +368,13 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+* Keep my phone on silent during focus sessions.
+* Avoid social media while studying.
+* Use only the required websites and applications for learning.
+* Study in a clean and quiet environment.
+* Take short breaks after completing a focused work session.
+* Complete important tasks before entertainment.
+* Avoid unnecessary notifications during study time.
 
 ---
 
@@ -369,15 +382,15 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that I can achieve my goals better when I have a clear plan and follow a regular routine. Consistency is more important than trying to do everything at once.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness is getting distracted by my phone and sometimes delaying tasks. I need to improve my time management and start tasks without waiting for the perfect time.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I will spend one focused hour every day from 7:00 PM to 8:00 PM on DMI work, coding, and skill development. During this time, I will keep my phone away and focus only on the planned task.
 
 ### LinkedIn Post
 
