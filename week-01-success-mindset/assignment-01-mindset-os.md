@@ -156,13 +156,32 @@ Hashtags:
 
 ## Your Article
 
-Add your answer here...
+# Assignment 3 – What Does My 2.0 Version Look Like?
+
+### Your Article
+
+**From B.Tech Student to DevOps Engineer: The Journey of Vyshnavi**
+
+By 2030, Vyshnavi had built a strong career in the technology industry through consistent learning, practical experience, and discipline. What started as a B.Tech student's interest in technology had developed into a professional career in **DevOps and cloud technologies**.
+
+Over the years, she had built and deployed several real-world projects that demonstrated her technical skills. She had worked with **Linux, Git, GitHub, Docker, CI/CD, cloud platforms, networking, and Python**. Instead of depending only on theoretical knowledge, she had focused on hands-on practice and documented her learning through projects and technical notes.
+
+Her GitHub profile had become an important part of her professional portfolio. It contained completed projects, DevOps assignments, automation scripts, documentation, and examples of her continuous learning. She had also published technical posts about DevOps, cloud computing, networking, and the lessons she learned while building projects.
+
+By this stage, Vyshnavi had earned relevant **DevOps and cloud certifications** and had gained professional experience working as a **DevOps/Cloud Engineer**. She had contributed to team projects, worked with developers and operations teams, and helped automate repetitive processes. Her experience with CI/CD pipelines had helped teams build, test, and deploy applications more efficiently.
+
+She had also developed strong communication and problem-solving skills. Instead of avoiding difficult technical problems, she had learned to break them into smaller tasks, investigate the cause, test possible solutions, and document the results.
+
+Beyond her job, she had contributed to the learning community by sharing useful resources, writing technical articles, and helping beginners understand DevOps concepts. Her journey showed that progress did not happen overnight. It came from consistently learning, practicing, building, and improving.
+
+By 2030, her **2.0 version** was not simply someone with more knowledge. She had become a more disciplined professional with proven skills, a strong portfolio, practical experience, and a mindset focused on continuous improvement.
+
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+https://www.linkedin.com/pulse/20-version-me-vyshnavi-mamidala-e3tic
 
 ---
 
