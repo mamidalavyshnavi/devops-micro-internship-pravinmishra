@@ -396,14 +396,14 @@ I will spend one focused hour every day from 7:00 PM to 8:00 PM on DMI work, cod
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+https://lnkd.in/p/giKtauHM
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL:* https://lnkd.in/p/giKtauHM *
+- Blog / Medium :* https://medium.com/@mamidalavyshnavi0/week-1-of-my-devops-micro-internship-journey-4f755d3cf0d0?sharedUserId=mamidalavyshnavi0*
 
 ---
 
