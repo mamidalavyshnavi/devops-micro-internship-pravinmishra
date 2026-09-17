@@ -213,7 +213,10 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+** Yes**
+
+Once, I took a shortcut instead of doing something properly. At first, I felt relieved because it saved me time and effort. But later, I started feeling guilty and stressed because I knew I had not done the right thing. I was also worried that someone might find out. This experience made me realize that shortcuts may seem easy in the beginning, but they can make us feel uncomfortable afterward. I regretted my decision and learned that being honest and doing things properly gives me more confidence and peace of mind.
+
 
 ---
 
