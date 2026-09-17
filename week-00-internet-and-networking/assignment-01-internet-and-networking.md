@@ -251,7 +251,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://lnkd.in/p/g6ieafY9
 ```
 
 ---
@@ -260,7 +260,35 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+🚀 Week 0 | DevOps Micro Internship – Internet & Networking
+
+I’m excited to share my learning from Week 0 of the DevOps Micro Internship!
+
+💡 **ChatGPT**
+Learned how ChatGPT can help understand technical concepts, refine answers, and support learning.
+
+🌐 **Internet & Networking**
+Learned about protocols, packet switching, IP addresses, TCP/IP, HTTP/HTTPS, and how users can access websites globally.
+
+🏗️ **App Architecture**
+Explored the difference between two-tier and three-tier applications:
+• Two-tier: Frontend + Database
+• Three-tier: Frontend + Backend + Database
+
+🔎 **DNS**
+Learned how DNS converts domain names into IP addresses and how an **A record** connects a domain to an IPv4 address.
+
+💻 **VS Code Setup**
+Set up VS Code and learned the basics of creating, editing, and managing project files for development.
+
+This week helped me build a stronger foundation in Internet, Networking, Application Architecture, DNS, and DevOps concepts. Looking forward to learning and building more! 🚀
+
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/https://github.com/mamidalavyshnavi/devops-micro-internship-pravinmishra.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3
+
+Tagging Pravin Mishra and Lead Co-Mentor — Anjana Muthunayake.
+
+#DMIByPravinMishra #AgenticAI #DevOps
+
 
 ---
 
@@ -268,19 +296,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found learning basic Internet and networking concepts easy, especially protocols, IP addresses, DNS, HTTP/HTTPS, and TCP/IP. Creating simple architecture diagrams was also easy to understand.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Understanding packet switching, DNS records, and the difference between two-tier and three-tier architecture was initially difficult. I needed some examples to understand how these concepts work in real-world applications.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I will improve my practical DevOps skills by practicing more with Git, GitHub, Linux, and development tools. I will also focus on understanding concepts through hands-on practice.
 
 ---
 
