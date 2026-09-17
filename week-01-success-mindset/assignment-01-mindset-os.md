@@ -55,11 +55,12 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Truth: Consistent practice improves my understanding and performance
 
 ### Evidence from my life
 
-Add your answer here...
+When I studied technical subjects only before exams, I found it difficult to remember concepts.
+When I started studying and practicing regularly, I understood the topics more clearly and felt more confident while answering questions.
 
 ---
 
@@ -67,11 +68,12 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Truth: Learning by doing helps me understand technical concepts better than only reading them.
 
 ### Evidence from my life
 
-Add your answer here...
+While learning GitHub, VS Code, and networking concepts, I tried performing the tasks practically instead of only reading the instructions.
+After practicing the steps myself, I was able to understand the process and remember it more easily.
 
 ---
 
@@ -79,11 +81,12 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Truth: Breaking a difficult task into smaller steps makes it easier to complete.
 
 ### Evidence from my life
 
-Add your answer here...
+When I faced assignments with many tasks, I initially felt that they were difficult to complete.
+I started completing them one task at a time and checking each result before moving forward. This made the work more manageable and helped me finish the assignment successfully.
 
 ---
 
