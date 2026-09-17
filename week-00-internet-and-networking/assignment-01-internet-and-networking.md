@@ -62,7 +62,12 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user anywhere in the world opens the **EpicReads** website hosted in Finland, the request travels through the Internet using **packet switching**. The data is divided into small packets, which can travel through different network paths and are reassembled at the destination.
+
+The website server has a unique **IP address**, which helps identify and locate the server on the Internet. **TCP/IP** provides the rules for delivering data between the user's device and the server. IP handles addressing and routing, while TCP helps ensure that packets are delivered reliably and in the correct order.
+
+For accessing the website, the browser uses **HTTP or HTTPS**. HTTPS is the secure version of HTTP and encrypts the communication between the user's browser and the EpicReads server. Thus, users globally can securely access EpicReads even though its server is located in Finland.
+
 
 ---
 
