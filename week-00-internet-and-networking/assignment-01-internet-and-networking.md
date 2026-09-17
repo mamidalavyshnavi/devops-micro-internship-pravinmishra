@@ -99,7 +99,8 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram]!(<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/68116ff7-e975-461b-a60e-9ccdff942e62" />
+)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -110,18 +111,19 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML & CSS – Used to create and design web pages.
+* JavaScript – Used to add interactive features.
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js – Used to build server-side applications.
+* Python – Used for backend development and APIs.
+
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL – Relational database for storing application data.
+* PostgreSQL – Database used to store and manage structured data.
 
 ---
 
