@@ -152,7 +152,10 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) is like the **phonebook of the Internet**. It converts easy-to-remember domain names, such as `epicreads.com`, into IP addresses that computers use to find the website.
+
+To connect a domain to a given **IPv4 IP address**, we use an **A (Address) record**. The A record maps the domain name directly to the server’s IPv4 address. When a user enters the domain name in a browser, DNS finds the corresponding IP address and directs the user to the correct server.
+
 
 ---
 
